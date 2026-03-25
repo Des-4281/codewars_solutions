@@ -32,6 +32,7 @@ python3 codewars_solutions.py
 | Challenge | Function |
 |---|---|
 | Even or Odd | `even_or_odd(number)` |
+| Convert Number to String | `print(number_to_string(0))`|
 | Remove String Spaces | `no_space(string)` |
 | Count Vowels | `getCount(inputStr)` |
 
